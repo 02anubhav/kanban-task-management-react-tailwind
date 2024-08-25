@@ -57,14 +57,7 @@ Bonus:
 ### Built with
 
 - [TailwindCSS](https://tailwindcss.com/) - CSS Framework
-- Drag and Drop API
 - [React](https://reactjs.org/) - JS library
-- [Redux](https://redux.js.org/) - State management tool
 
-### Useful resources
 
-- [Drag and Drop quick tutorial](https://www.youtube.com/watch?v=u65Y-vqYNAk)
 
-## Author
-
-- LinkedIn - [Hesam DearBoy](https://www.linkedin.com/in/hesam-azizpour-23259b265/)
