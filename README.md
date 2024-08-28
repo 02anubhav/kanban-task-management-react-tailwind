@@ -6,7 +6,6 @@ This is a solution to the [Kanban task management web app challenge on Frontend 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
 
 ## Overview
 
@@ -44,14 +43,6 @@ Bonus:
 
 ![Screenshot]()
 
-### Links
-
-- Live Site URL: [link](https://kanban-task-management-react-tailwind.vercel.app/)
-
-### Built with
-
-- [TailwindCSS](https://tailwindcss.com/) - CSS Framework
-- [React](https://reactjs.org/) - JS library
 
 
 
